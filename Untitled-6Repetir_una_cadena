@@ -1,0 +1,8 @@
+# Descripción: Genera una línea decorativa multiplicando un carácter
+
+# 1. Definir el carácter y el número de repeticiones
+caracter = "="
+linea_decorativa = caracter * 40
+
+# 2. Imprimir la línea decorativa
+print(linea_decorativa)
